@@ -8,7 +8,8 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/isha-lodha/)](https://https://www.linkedin.com/in/isha-lodha/)
 [![Medium](https://img.shields.io/badge/-Medium-222222?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@ishalodha960)](https://medium.com/@ishalodha960)
-
+<!---
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isha960&layout=compact&hide=html" />
 <!---
 - 👋 Hi, I’m @isha960
 
