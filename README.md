@@ -3,7 +3,6 @@
 
 # Isha Lodha
 
-+ I am Isha Lodha, a pre-final year student interested in machine learning, business analytics and software development. <br/>
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/isha-lodha/)](https://https://www.linkedin.com/in/isha-lodha/)
